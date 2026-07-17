@@ -95,32 +95,6 @@ The physical prototype was not assembled before submission.
 
 The simulation platform was therefore used to validate the complete system, including cloud communication and dashboard visualization.
 
----
-
-# 9. Evidence
-
-Include the following screenshots in the **images** folder.
-
-```markdown
-![Wokwi Simulation](images/01_Wokwi_Simulation.png)
-
-![Serial Monitor](images/03_Serial_Monitor.png)
-
-![InfluxDB Data](images/04_InfluxDB_Data.png)
-
-![Grafana Dashboard](images/05_Grafana_Dashboard.png)
-```
-
----
-
-# 10. Evidence of Group Work
-
-Evidence may include:
-
-- GitHub commits
-- Team discussions
-- Meeting records
-- Task allocation
 
 ---
 
