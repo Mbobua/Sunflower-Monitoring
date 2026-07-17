@@ -86,43 +86,9 @@ A pull-up resistor can be connected between the DHT22 DATA pin and 3.3V. A volta
 
 ### Architecture A Schematic
 
-Place the Architecture A diagram in the `images` folder using this filename:
 
-```text
-images/architecture_a.png
-```
-
-Then display it in this document using:
-
-```markdown
-![Architecture A Schematic](images/architecture_a.png)
-```
-
-![Architecture A Schematic](images/architecture_a.png)
-
----
-
-## 4.2 Architecture B
-
-Architecture B will be added later. It will show one ESP32S connected to an MQ-5 sensor and interfaced directly with another ESP32S connected to a DHT22 sensor.
-
----
-
-## 4.3 Architecture C
-
-Architecture C will be added later. It will show one ESP32S connected to a DHT22 and relay module, interfaced with another ESP32S connected to an MQ-5 sensor.
-
----
 
 # 5. Evidence of Group Work
-
-Evidence of project work may include:
-
-- GitHub commits
-- Task allocation records
-- Group communication screenshots
-- Meeting screenshots
-- Shared design or implementation discussions
 
 At the moment, the submitted work contains the implementation and documentation completed by:
 
