@@ -90,20 +90,10 @@ I was unable to assemble and test the physical prototype before submission. As a
 # 9. Future Work
 
 - Assemble and test the physical prototype.
-- Implement Architecture B.
-- Implement Architecture C.
 - Compare physical prototype results with simulation results.
 
 ---
 
-# 10. Evidence of Group Work
-
-Evidence may include:
-
-- GitHub commits
-- Team discussions
-- Task allocation
-- Meeting records
 
 ---
 
