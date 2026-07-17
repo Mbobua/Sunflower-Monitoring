@@ -73,7 +73,7 @@ However, the simulated prototype was successfully developed and tested using Wok
 
 # 7. Challenges Encountered
 
-The team was unable to assemble and test the physical prototype before submission. As a result, only the simulated prototype is presented in this deliverable.
+I was unable to assemble and test the physical prototype before submission. As a result, only the simulated prototype is presented in this deliverable.
 
 ---
 
